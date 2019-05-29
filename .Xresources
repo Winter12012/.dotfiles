@@ -1,0 +1,5 @@
+URxvt.scrollBar: False
+URxvt.internalBorder: 18px
+! -- fonts -- !
+URxvt.font:xft:hack:pixelsize=12
+
